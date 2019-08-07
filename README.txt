@@ -1,5 +1,6 @@
-shows the updates to a file you made
-git diff README.txt
+README 
 
-reset a file 
-git checkout fileNamegoesHere
+artur 
+david maliaka
+divij
+prakash
