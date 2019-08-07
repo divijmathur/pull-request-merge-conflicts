@@ -1,5 +1,11 @@
-shows the updates to a file you made
-git diff README.txt
+README
 
-reset a file 
-git checkout fileNamegoesHere
+josh
+marina
+geoffrey 
+justin
+arashi
+serene
+jacob
+annie
+a
